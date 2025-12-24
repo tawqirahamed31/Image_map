@@ -105,5 +105,7 @@ Execute the programs and publish them.
 
 
 # OUTPUT
+<img width="1919" height="823" alt="image" src="https://github.com/user-attachments/assets/526a0539-f35a-4f3c-a873-44b585ad6da9" />
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
